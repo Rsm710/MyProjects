@@ -1,2 +1,0 @@
- GAN - Génération d'images avec réseaux antagonistes génératifs
-Ce projet implémente un Generative Adversarial Network (GAN) pour la génération d'images synthétiques réalistes à partir d’un jeu de données d'images réelles. Il repose sur l'entraînement simultané de deux réseaux de neurones : un générateur qui apprend à créer de fausses images convaincantes, et un discriminateur qui apprend à différencier les vraies images des fausses.
