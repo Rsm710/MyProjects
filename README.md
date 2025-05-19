@@ -1,6 +1,6 @@
 # 💼 Portfolio de Projets – Développement & IA
 
-Bienvenue sur mon dépôt de portfolio ! 🎓 Étudiant en informatique passionné par le développement logiciel, l’IA et les technologies web, je partage ici quelques-uns de mes projets marquants réalisés dans le cadre universitaire et personnel.
+Bienvenue sur mon dépôt de portfolio ! 🎓Je suis Mathis Levesque du rostu Étudiant en informatique à l'université d'Avignon, passionné par le développement logiciel, l’IA et les technologies web, je partage ici quelques-uns de mes projets marquants réalisés dans le cadre universitaire et personnel.
 
 ---
 
