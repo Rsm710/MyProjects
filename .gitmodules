@@ -1,0 +1,3 @@
+[submodule "site-collaboratif/Work2gether"]
+	path = site-collaboratif/Work2gether
+	url = https://github.com/Work2Gether-il/Work2gether.git
