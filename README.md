@@ -66,7 +66,7 @@ Développement d’un **site web collaboratif** permettant à plusieurs utilisat
 
 ## 📫 Contact
 
-📧 [Email professionnel](m.levesque449@gmail.com)  
+📧 m.levesque449@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mathis-levesque-88b146364/)  
 
 ---
